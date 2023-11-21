@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @rachelmcdonald and I am an Associate Software Engineer!
+- 👋🏻 Hi, I’m @rachelmcdonald and I am a Software Engineer!
 - 🎮 I’m interested in all things code, Harry Potter and gaming (quite the nerd, I know!)
 - 🎓 Over the past three years I self-taught to code, taught female and non-binary students the fundamentals of Web Development through a university supported course, graduated from an intensive software development course and had my first role in the tech industry as an Associate Software Engineer.
 - 📍 Recently relocated from Scotland UK to Perth WA as a permanent resident.
