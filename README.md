@@ -1,5 +1,5 @@
-- 👋🏻 Hi, I’m @rachelmcdonald and I am a Software Engineer!
-- 🎮 I’m interested in all things code, Harry Potter and gaming (quite the nerd, I know!)
-- 🎓 Over the past three years I self-taught to code, taught female and non-binary students the fundamentals of Web Development through a university supported course, graduated from an intensive software development course and had my first role in the tech industry as an Associate Software Engineer.
-- 📍 Recently relocated from Scotland UK to Perth WA as a permanent resident.
+- 👋🏻 Hi, I’m @rachelmcdonald and I am a Full Stack Software Engineer
+- 🎮 I’m interested in all things code and gaming (quite the nerd, I know!)
+- ❤️ I value inclusion, having volunteered to teach web development to underrepresented groups to help break the gender barrier within the tech industry
+- 📍 Perth, Western Australia
 - 📫 How to reach me - rach-mcdonald@outlook.com or via my LinkedIn, which is in my bio!
