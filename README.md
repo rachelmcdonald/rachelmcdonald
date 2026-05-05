@@ -15,7 +15,7 @@ personal projects and open to remote roles in frontend, full-stack, or QA testin
 
 ### Current projects
 
-🟢 **The Mosslit Path** *(2024–present)*  
+🟢 **The Mosslit Path** *(2026–ongoing)*  
 A Flask-based narrative RPG with branching story logic, session-based combat, 
 animated sprites, and custom UI — built with Python, Jinja2, HTML/CSS, and JavaScript.  
 
