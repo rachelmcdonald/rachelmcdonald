@@ -18,7 +18,7 @@ personal projects and open to remote roles in frontend, full-stack, or QA testin
 🟢 **The Mosslit Path** *(2026–ongoing)*  
 A Flask-based narrative RPG with branching story logic, session-based combat, 
 animated sprites, and custom UI — built with Python, Jinja2, HTML/CSS, and JavaScript.  
-→ [Live demo](#https://adventure-game-production.up.railway.app) | [Repo](#https://github.com/rachelmcdonald/Adventure-Game)
+→ [Live demo](https://adventure-game-production.up.railway.app) | [Repo](https://github.com/rachelmcdonald/Adventure-Game)
 
 🟢 **Cosy Companion** *(2024–present)*  
 A gamified productivity and wellness app built with React and TypeScript.  
