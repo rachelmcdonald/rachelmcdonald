@@ -20,9 +20,10 @@ A Flask-based narrative RPG with branching story logic, session-based combat,
 animated sprites, and custom UI — built with Python, Jinja2, HTML/CSS, and JavaScript.  
 → [Live demo](https://adventure-game-production.up.railway.app) | [Repo](https://github.com/rachelmcdonald/Adventure-Game)
 
-🟢 **Cosy Companion** *(2024–present)*  
+🟢 **Cosy Companion** *(2024–present)*
 A gamified productivity and wellness app built with React and TypeScript.
 → [Repo](https://github.com/rachelmcdonald/cosy-companion)
+
 ---
 
 ### A little more about me
