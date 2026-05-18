@@ -15,6 +15,10 @@ personal projects and open to remote roles in frontend, full-stack, or QA testin
 
 ### Current projects
 
+🟢 **Hush Tinnitus** *(2026–ongoing)*  
+A mobile app offering evidence-based tinnitus self-management through sound therapy, guided relaxation, CBT psychoeducation, and TFI-based symptom tracking - built with React and TypeScript.
+→ [Repo](https://github.com/rachelmcdonald/HushTinnitus)
+
 🟢 **The Mosslit Path** *(2026–ongoing)*  
 A Flask-based narrative RPG with branching story logic, session-based combat, 
 animated sprites, and custom UI — built with Python, Jinja2, HTML/CSS, and JavaScript.  
