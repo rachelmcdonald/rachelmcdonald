@@ -16,7 +16,7 @@ personal projects and open to remote roles in frontend, full-stack, or QA testin
 ### Current projects
 
 🟢 **Hush Tinnitus** *(2026–ongoing)*  
-A mobile app offering evidence-based tinnitus self-management through sound therapy, guided relaxation, CBT psychoeducation, and TFI-based symptom tracking - built with React and TypeScript.
+A clinician-backed cross-platform mobile app for tinnitus self-management, combining sound therapy, guided relaxation, CBT psychoeducation, and the proprietary CREST symptom tracking scale — built with React Native, Expo, TypeScript, and SQLite.
 → [Repo](https://github.com/rachelmcdonald/HushTinnitus)
 
 🟢 **The Mosslit Path** *(2026–ongoing)*  
