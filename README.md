@@ -1,10 +1,6 @@
 # Hi, I'm Rachel 👋
 
-Full-stack software engineer based in Perth, Australia. I have a background in 
-TypeScript, React, Python, and Java, with production experience shipping features 
-on a renewable energy analytics platform. After relocating from the UK and taking 
-time for family, I'm actively returning to the industry — currently building 
-personal projects and open to remote roles in frontend, full-stack, or QA testing.
+Full-stack software engineer based in Perth, Australia. Background in TypeScript, React, React Native, Python, and Java — with production experience shipping features on a renewable energy analytics platform. After relocating from the UK and taking time for family, I've been actively building: currently launching a clinician-backed React Native health app on Android and looking for remote-first roles in frontend, full-stack, React Native, or QA testing.
 
 ---
 
@@ -16,16 +12,15 @@ personal projects and open to remote roles in frontend, full-stack, or QA testin
 ### Current projects
 
 🟢 **Hush Tinnitus** *(2026–ongoing)*  
-A clinician-backed cross-platform mobile app for tinnitus self-management, combining sound therapy, guided relaxation, CBT psychoeducation, and the proprietary CREST symptom tracking scale — built with React Native, Expo, TypeScript, and SQLite.
+A clinician-backed React Native tinnitus self-management app built with an audiologist. Features synthesised sound therapy, guided relaxation, CBT psychoeducation, a proprietary 12-question CREST assessment scale, symptom tracking, longitudinal SVG charts, and one-tap clinician PDF export. Built with TypeScript, Expo SDK 54, expo-sqlite (fully on-device), React Native Reanimated, and EAS cloud builds. Developed using AI-assisted workflows throughout.
 → [Repo](https://github.com/rachelmcdonald/HushTinnitus)
 
 🟢 **The Mosslit Path** *(2026–ongoing)*  
-A Flask-based narrative RPG with branching story logic, session-based combat, 
-animated sprites, and custom UI — built with Python, Jinja2, HTML/CSS, and JavaScript.  
+A Flask-based narrative RPG where players navigate a branching story as an Elven Ranger, facing encounters and combat that shape the outcome. Built end-to-end with Python, Jinja2, HTML, CSS, and JavaScript — featuring session-based state management, animated character sprites, a multi-stage combat system with HP bars, typewriter dialogue, and particle effects. Includes a full Playwright E2E test suite and GitHub Actions CI pipeline.
 → [Live demo](https://adventure-game-production.up.railway.app) | [Repo](https://github.com/rachelmcdonald/Adventure-Game) | [CI Pipeline](https://github.com/rachelmcdonald/Adventure-Game/actions/runs/25802895413)
 
 🟢 **Cosy Companion** *(2024–present)*  
-A gamified productivity and wellness app built with React and TypeScript.  
+A gamified productivity app in React featuring daily and side quests, an evolving avatar companion, XP and gold progression, and a real-time countdown timer with local storage persistence. Side quests auto-refresh on timer expiry with new daily tasks generated on reset.
 → [Repo](https://github.com/rachelmcdonald/cosy-companion)
 
 ---
